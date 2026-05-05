@@ -40,10 +40,10 @@ Something's Phishy is a web-based cybersecurity training platform built for user
 
 | Document | Description |
 |----------|-------------|
-| [PhishGuard Project Description](./PhishGuard%20Project%20Description.pptx) | Project overview presentation |
-| [Use Cases Document](./CSIT%20416%20-%20PhishGuard%20Use%20Cases.docx) | Detailed use case specifications |
-| [Project Discovery Document](./Project%20Discovery%20Document.docx) | Initial project discovery and planning |
-| [Final Project Deliverable Guidelines](./Final%20Project%20Deliverable%20Guidelines.pptx) | Final deliverable guidelines |
+| [PhishGuard Project Description](./Phishguard-Project/PhishGuard%20Project%20Description.pptx) | Project overview presentation |
+| [Use Cases Document](./Phishguard-Project/CSIT%20416%20-%20PhishGuard%20Use%20Cases.docx) | Detailed use case specifications |
+| [Project Discovery Document](./Phishguard-Project/Project%20Discovery%20Document.docx) | Initial project discovery and planning |
+| [Final Project Deliverable Guidelines](./Phishguard-Project/Final%20Project%20Deliverable%20Guidelines.pptx) | Final deliverable guidelines |
 
 ---
 
@@ -63,5 +63,5 @@ Something's Phishy is a web-based cybersecurity training platform built for user
 ---
 
 ## Contact
-📬 angeleesq3@gmail.com  
+📬 angeleesq3@gmail.com 
 🐙 [github.com/asq2000](https://github.com/asq2000)
