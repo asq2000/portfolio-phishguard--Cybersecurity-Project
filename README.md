@@ -35,18 +35,14 @@ Something's Phishy is a web-based cybersecurity training platform built for user
 - 👤 User roles: Learner, Pro Defender, System Admin
 
 ---
-
 ## Project Documents
-
-> 📥 Click any link below to download the file
 
 | Document | Description |
 |----------|-------------|
-| [📥 PhishGuard Project Description](./Phishguard-Project/PhishGuard%20Project%20Description.pptx) | Project overview presentation |
-| [📥 Use Cases Document](./Phishguard-Project/CSIT%20416%20-%20PhishGuard%20Use%20Cases.docx) | Detailed use case specifications |
-| [📥 Project Discovery Document](./Phishguard-Project/Project%20Discovery%20Document.docx) | Initial project discovery and planning |
-| [📥 Final Project Deliverable Guidelines](./Phishguard-Project/Final%20Project%20Deliverable%20Guidelines.pptx) | Final deliverable guidelines |
-
+| [📄 Use Cases Document](./Phishguard-Project/CSIT%20416%20-%20PhishGuard%20Use%20Cases.docx%20(1).pdf) | Detailed use case specifications |
+| [📄 Final Project Deliverable Guidelines](./Phishguard-Project/Final%20Project%20Deliverable%20Guidelines.pptx.pdf) | Final deliverable guidelines |
+| [📄 Project Discovery Document](./Phishguard-Project/Project%20Discovery%20Document.docx.pdf) | Initial project discovery and planning |
+| [📄 PhishGuard Project Description](./Phishguard-Project/PhishGuard%20Project%20Description.pptx.pdf) | Project overview presentation |
 ---
 
 ## Tech Stack
