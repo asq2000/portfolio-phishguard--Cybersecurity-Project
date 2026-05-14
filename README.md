@@ -1,6 +1,5 @@
 # Something's Phishy — Cybersecurity Awareness Platform
 ### Angelee Sullivan-Quintana & Team
-
 A cybersecurity awareness training platform designed to help users identify and defend against phishing attacks through interactive courses and AI-powered tools.
 
 🌐 **Live App:** [View Something's Phishy](https://app.base44.com/apps/69d7f38c5ed43b7063f963f4/editor/preview/)
@@ -8,13 +7,11 @@ A cybersecurity awareness training platform designed to help users identify and 
 ---
 
 ## About the Project
-
 Something's Phishy is a web-based cybersecurity training platform built for users to learn how to recognize and respond to phishing threats. The platform features interactive courses, quizzes, an AI chatbot, and a phishing URL scanner.
 
 ---
 
 ## Team Members
-
 | # | Name |
 |---|------|
 | 1 | Manahil Imran |
@@ -26,7 +23,6 @@ Something's Phishy is a web-based cybersecurity training platform built for user
 ---
 
 ## Features
-
 - 📚 Interactive cybersecurity courses
 - 🧠 Quizzes with AI-powered explanations
 - 🔍 Phishing URL scanner
@@ -35,18 +31,19 @@ Something's Phishy is a web-based cybersecurity training platform built for user
 - 👤 User roles: Learner, Pro Defender, System Admin
 
 ---
-## Project Documents
 
+## Project Documents
 | Document | Description |
 |----------|-------------|
 | [📄 Use Cases Document](./Phishguard-Project/CSIT%20416%20-%20PhishGuard%20Use%20Cases.docx%20(1).pdf) | Detailed use case specifications |
 | [📄 Final Project Deliverable Guidelines](./Phishguard-Project/Final%20Project%20Deliverable%20Guidelines.pptx.pdf) | Final deliverable guidelines |
 | [📄 Project Discovery Document](./Phishguard-Project/Project%20Discovery%20Document.docx.pdf) | Initial project discovery and planning |
 | [📄 PhishGuard Project Description](./Phishguard-Project/PhishGuard%20Project%20Description.pptx.pdf) | Project overview presentation |
+| [📄 Final Presentation](./Final%20Presentation.pdf) | Final project presentation slides |
+
 ---
 
 ## Tech Stack
-
 - HTML / CSS / JavaScript
 - AI-powered chatbot integration
 - Phishing detection algorithms
@@ -55,7 +52,6 @@ Something's Phishy is a web-based cybersecurity training platform built for user
 ---
 
 ## Course
-
 **CSIT 416** — Montclair State University
 
 ---
